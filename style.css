@@ -1,0 +1,60 @@
+body{
+    background-color: violet;
+}
+
+#head{
+    background:blue;
+    width: 35%;
+    border-radius: 50px;
+    color: white;
+}
+span{
+    font-size: 30px;
+    padding: 5px;
+}
+.ins{
+    background: gray;
+}
+.ins label{
+    color: white;
+    font-size: 30px;
+}
+#cam{
+    height: 320px;
+    width: 340px;
+    box-shadow: 5px 5px 18px black;
+    border-color: black;
+}
+.webcam{
+    margin-left: 20px;
+    background:whitesmoke;
+    width:350px;
+    text-align: center;
+}
+
+#snap{
+    height: 320px;
+    width: 340px;
+    box-shadow: 5px 5px 18px black;
+    border-color: black;
+}
+.snapshot{
+    margin-left: 20px;
+    background: blanchedalmond;
+    width:350px;
+    text-align: center;
+}
+hr{
+    width: 390px;
+color: black;
+}
+#hg{
+    font-size: 30px;
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#gestures{
+    font-size: 30px;
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
